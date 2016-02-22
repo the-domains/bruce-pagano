@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bruce Pagano]]></title>
+        <description><![CDATA[Bruce Pagano]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Feb 2016 19:22:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A HUSBAND TO YOUR WIFE]]></title>
+            <description><![CDATA[<article><h1>A HUSBAND TO YOUR WIFE</h1><p>I had only ever been a father to boys. I love my 3 boys. They have completely, different personalities. But even with their wide range in age and personalities; there are many similarities in how you parent them. With twelve years between my oldest and youngest sons, I have learned a lot about how to parent boys. However, in November of 2014 things changed. My wife gave birth to a baby girl.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/802d41181fccb2ffa29cf7694e7af30d9390f344.jpg"></article>]]></description>
+            <link>undefined3-roles-your-daughter-needs-you-to-fill/index.html</link>
+            <guid isPermaLink="false">70d68f2b-bf68-4157-b521-088981ab0969</guid>
+            <pubDate>Mon, 22 Feb 2016 19:22:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
