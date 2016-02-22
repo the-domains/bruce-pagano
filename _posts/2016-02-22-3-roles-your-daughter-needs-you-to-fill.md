@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T19:22:36.872Z'
-dateModified: '2016-02-22T19:22:11.184Z'
+datePublished: '2016-02-22T19:24:29.338Z'
+dateModified: '2016-02-22T19:24:20.675Z'
 title: 3 Roles Your Daughter Needs You to Fill
 author: []
+sourcePath: _posts/2016-02-22-3-roles-your-daughter-needs-you-to-fill.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-3-roles-your-daughter-needs-you-to-fill.md
-published: true
 url: 3-roles-your-daughter-needs-you-to-fill/index.html
 _type: Article
 
