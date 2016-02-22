@@ -1,0 +1,28 @@
+name: Bruce Pagano
+favicon: null
+layout_spectrum: 0.9393594637513161
+typography_spectrum: 0.7505001868121326
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9342695106752217
+  lightness: 0.036097161239013076
+  saturation: 0.6789134657010436
+  rhythmicContrast: 0.71973842731677
+purpose: []
